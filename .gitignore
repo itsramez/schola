@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Supabase CLI local cache (project ref, pooler URL, etc. — not secrets, but local machine state)
+supabase/.temp
